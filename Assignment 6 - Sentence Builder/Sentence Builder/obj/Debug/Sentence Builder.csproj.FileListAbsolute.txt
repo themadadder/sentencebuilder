@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\bin\Debug\Sentence Builder.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence_Builder.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence_Builder.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 6 - Sentence Builder\Sentence Builder\obj\Debug\Sentence Builder.pdb
